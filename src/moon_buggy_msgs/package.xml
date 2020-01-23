@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>moon_buggy_msgs</name>
+  <version>0.0.0</version>
+  <description>Common messages package for the project</description>
+  <maintainer email="barone.patrick@gmail.com">baronep</maintainer>
+  <license>TODO</license>
+
+  <depend>std_msgs</depend>
+  <build_depend>message_generation</build_depend>
+  <build_export_depend>message_generation</build_export_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
